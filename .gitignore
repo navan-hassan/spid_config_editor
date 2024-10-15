@@ -1,0 +1,5 @@
+# editor
+.mypy_cache
+
+# virtual env
+venv/
